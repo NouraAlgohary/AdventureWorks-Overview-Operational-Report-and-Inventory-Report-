@@ -14,7 +14,7 @@ Interactive Visuals: Users can explore and interact with different aspects of th
 
 ### Operational Report:
 
-Sales Team Performance: Evaluate the performance of sales teams for recognition and comparison.
+Sales Team Performance: Evaluate the performance of sales teams for recognition and comparison.</br>
 Comparison Features: Allows users to compare current performance with others and analyze month and quarter-over-quarter trends.
 
 ![operational_report](https://github.com/NouraAlgohary/AdventureWorks-Overview-OperationalReport-InventoryReport-/assets/103903785/5a2f29d4-2928-4a19-a3a5-62276c4caf3c)
