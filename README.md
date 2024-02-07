@@ -2,6 +2,14 @@
 
 Welcome to the AdventureWorks Power BI project documentation. This report provides a comprehensive analysis of the AdventureWorks sample database, offering insights into overall company performance, operational efficiency, and product inventory. The project is organized into three main pages: Overview, Operational Report, and Inventory Report.</br>
 
+
+![overview](https://github.com/NouraAlgohary/AdventureWorks-Overview-OperationalReport-InventoryReport-/assets/103903785/d904c477-3993-46af-9a9d-5d658485de12)
+
+![operational_report](https://github.com/NouraAlgohary/AdventureWorks-Overview-OperationalReport-InventoryReport-/assets/103903785/5a2f29d4-2928-4a19-a3a5-62276c4caf3c)
+
+![inventory_report](https://github.com/NouraAlgohary/AdventureWorks-Overview-OperationalReport-InventoryReport-/assets/103903785/df6014cc-92bd-49d8-ba15-37e02176ce75)
+
+
 ## Project Overview:</br>
 Conductivity Mode: Import Mode</br>
 Data Source: AdventureWorks Sample Database</br>
